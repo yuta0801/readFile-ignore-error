@@ -1,0 +1,26 @@
+{
+  "name": "readfile-ignore-error",
+  "version": "1.0.0",
+  "description": "Don't let `fs.readFile` throw errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuta0801/readfile-ignore-error.git"
+  },
+  "keywords": [
+    "fs",
+    "read",
+    "file",
+    "sync",
+    "promise"
+  ],
+  "author": "yuta0801",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuta0801/readfile-ignore-error/issues"
+  },
+  "homepage": "https://github.com/yuta0801/readfile-ignore-error#readme"
+}
